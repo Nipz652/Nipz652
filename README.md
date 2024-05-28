@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://1drv.ms/b/s!AjuYcTn96am1gStNalOH2UM_kkBe?e=3cnxqX](https://1drv.ms/b/s!AjuYcTn96am1gStNalOH2UM_kkBe?e=3cnxqX)
 
-- ⚡ Fun fact **I could be adaptive**
+- ⚡ Fun fact **I'm higly adaptive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
