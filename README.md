@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/abdul-hanif-bin-abdul-aziz-44a982297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul hanif bin abdul aziz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdul-hanif-bin-abdul-aziz-44a982297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul hanif bin abdul aziz" height="30" width="40" /></a>
 <a href="https://www.facebook.com/hanif.aziz.374/?viewas=100000686899395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hanif aziz" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nautipz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nautipz" height="30" width="40" /></a>
 <a href="https://discord.gg/nipz7106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nipz#7106" height="30" width="40" /></a>
